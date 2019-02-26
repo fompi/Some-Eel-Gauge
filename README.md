@@ -1,6 +1,6 @@
 # Some Eel Gauge
 
-![Eel](https://raw.githubusercontent.com/impshum/Some-Eel-Gauge/master/ss.jpg)
+![Eel](https://raw.githubusercontent.com/impshum/Drumpf-Troll/master/screenshot.jpg)
 
 Please refer to these things to understand what's going on here.
 
