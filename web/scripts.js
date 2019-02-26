@@ -14,7 +14,7 @@ var opts = {
   pointer: {
     length: 0.9,
     strokeWidth: 0.035,
-    color: '#fff'
+    color: '#000'
   },
   limitMax: 'false',
   percentColors: [
@@ -27,7 +27,7 @@ var opts = {
   staticLabels: {
     font: "12px sans-serif",  // Specifies font
     labels: [0, 50, 100, 150, 200, 250, 300],  // Print labels at these values
-    color: "#fff",  // Optional: Label text color
+    color: "#000",  // Optional: Label text color
     fractionDigits: 0  // Optional: Numerical precision. 0=round off.
   },
 };
